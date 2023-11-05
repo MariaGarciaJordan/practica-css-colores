@@ -1,0 +1,158 @@
+body {
+    text-align: center;
+    background-image: url("imagen/imgfondo.jpg");
+    background-position: center;
+    background-size: cover;
+}
+
+td {
+    text-align: left;
+    font-size: large;
+}
+
+.fila1 {
+    text-align: center;
+    vertical-align: top;
+}
+
+table {
+    width: 75%;
+    height: 75%;
+    border-collapse: collapse;
+}
+
+tr {
+    height: 50px;
+}
+
+p {
+    font-size: xx-large;
+}
+
+.black {
+    color: black;
+}
+
+.teal {
+    color: teal;
+}
+
+.blue {
+    color: blue;
+}
+
+.navy {
+    color: navy;
+}
+
+.lime {
+    color: lime;
+}
+
+.white {
+    color: white;
+}
+
+.purple {
+    color: purple;
+}
+
+.yellow {
+    color: yellow;
+}
+
+.olive {
+    color: olive;
+}
+
+.red {
+    color: red;
+}
+
+.marron {
+    color: maroon;
+}
+
+.grey {
+    color: grey;
+}
+
+.fuchsia {
+    color: fuchsia;
+}
+
+.green {
+    color: green;
+}
+
+.aqua {
+    color: aqua;
+}
+
+.silver {
+    color: silver;
+}
+
+.black-b {
+    background-color: black;
+}
+
+.teal-b {
+    background-color: teal;
+}
+
+.blue-b {
+    background-color: blue;
+}
+
+.navy-b {
+    background-color: navy;
+}
+
+.lime-b {
+    background-color: lime;
+}
+
+.white-b {
+    background-color: white;
+}
+
+.purple-b {
+    background-color: purple;
+}
+
+.yellow-b {
+    background-color: yellow;
+}
+
+.olive-b {
+    background-color: olive;
+}
+
+.red-b {
+    background-color: red;
+}
+
+.marron-b {
+    background-color: maroon;
+}
+
+.grey-b {
+    background-color: grey;
+}
+
+.fuchsia-b {
+    background-color: fuchsia;
+}
+
+.green-b {
+    background-color: green;
+}
+
+.aqua-b {
+    background-color: aqua;
+}
+
+.silver-b {
+    background-color: silver;
+}
